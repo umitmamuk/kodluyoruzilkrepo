@@ -1,4 +1,4 @@
-![Proje Ekran Görüntüsü](PHP/php.png)
+![Proje Ekran Görüntüsü](php.png)
 ## Kullanılan Teknolojiler
 - **Dil / Framework:** HTML, CSS, Javascript, PHP.
 - **Veritabanı:** MySQL.
